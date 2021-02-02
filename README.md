@@ -1,2 +1,2 @@
 # NLTK_demo
-Word guessing command line game written in Python NLTK Platform
+Basic word guessing command line game written in Python NLTK Platform.
