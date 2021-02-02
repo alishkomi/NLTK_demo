@@ -1,6 +1,5 @@
 """
 Author: Alisher Komilov
-email: alisher.komilov@utdallas.edu
 """
 import sys  # for reading and exiting from file and program
 import re  # for removing unnecessary characters in text (tokenizing text)
