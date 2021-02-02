@@ -1,9 +1,6 @@
 """
 Author: Alisher Komilov
-email: axk153430@utdallas.edu
-Date: Sunday January 31, 2021
-
-Homework assignment 2 for CS4395 Karen Mazidi
+email: alisher.komilov@utdallas.edu
 """
 import sys  # for reading and exiting from file and program
 import re  # for removing unnecessary characters in text (tokenizing text)
